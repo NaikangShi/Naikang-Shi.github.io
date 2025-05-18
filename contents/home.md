@@ -6,7 +6,7 @@ He is currently pursuing an undergraduate degree in Information and Computing Sc
 #### Phonenumber
 13901418128(WeChat)
 #### Email
-1660093820@qq.com
+1660093820@qq.com\
 2210730123@student.cumtb.edu.cn
 #### Education
 School of Science, China University of Mining & Technology, 2022—2026.
