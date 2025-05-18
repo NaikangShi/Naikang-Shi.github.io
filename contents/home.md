@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![NaikangShi](https://img.shields.io/badge/NaikangShi-github-blue?logo=github)](https://github.com/NaikangShi)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
-
+He is currently pursuing an undergraduate degree in Information and Computing Science at the School of Science, China University of Mining & Technology.
+#### Phonenumber
+13901418128(WeChat)
 #### Email
-sli[at]cumt.edu.cn
-
+1660093820@qq.com
+2210730123@student.cumtb.edu.cn
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+School of Science, China University of Mining & Technology, 2022—2026.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Mathematical analysis, Advanced Algebra, Multivariate statistical analysis,Deep Learning.
 
